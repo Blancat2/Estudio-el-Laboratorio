@@ -50,32 +50,8 @@
     background-color: grey;
     }
 
-.imagenes{
-    display: flex;
-    justify-content: center;
-    height: 600px;
-    align-items: center;
-    
-    
-}
-
-.imagen1{
-    width: 400px;
-    height: 250pxs;
-    border: 2px solid black;
-    margin-right: 100px;
-}
-
-.imagen2{
-    width: 400px;
-    height: 250pxs;
-    border: 2px solid black;
-}
-.imagen3{
-    width: 400px;
-    height: 250pxs;
-    border: 2px solid black;
-    margin-left: 100px;
+.container{
+    padding: 3px;
 }
 
 .contactanos{
