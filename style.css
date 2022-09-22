@@ -57,27 +57,24 @@ background-color: grey;
 }
 
 
-.imagenes{
+
+.container{
+    padding: 3px;
+}
+
+.canciones{
+    height: 600px;
     display: flex;
     justify-content: center;
-    padding: 20px;
-    margin: 20px;
     align-items: center;
     
-
+}
+.video1{
+    padding: 10px;
 }
 
-.imagenes .imagen1{
-   margin: 50px;
-   width: 400px;
-   height: 250px;
-
-
-}
-
-.imagen2{
-    width: 400px;
-    height: 250px;
+.nosotros{
+    height: 600px;
 }
 
 .contactanos{
