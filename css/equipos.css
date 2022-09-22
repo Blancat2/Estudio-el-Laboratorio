@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+#header{
+    background-color: grey;
+    padding: 3%;
+    margin-bottom: 1%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+
+}
+#header .logo img{
+    width: 50%;
+    height: auto;
+
+}
+.logo{
+    width: 30%;
+}
+.menu{
+    width: 30%;
+}
+
+
+.menu ul li{
+    display: inline;
+    list-style: none;
+    
+    
+    
+       
+}
+.menu ul li a{
+    color: white;
+    text-decoration: none; 
+    padding: 10px; 
+    border: 1px solid black;
+    background-color: rgb(50, 94, 214);
+
+
+}
+
+.navbar{
+background-color: grey;
+}
+
+
+.contactanos{
+    background-color: grey;
+    height: 400px;
+}
+.formulario{
+    padding: 2px;
+    margin: 2px;
+}
